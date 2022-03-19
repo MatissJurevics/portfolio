@@ -1,4 +1,5 @@
 <script lang="ts">
+  let i = 0
 
 </script>
 
